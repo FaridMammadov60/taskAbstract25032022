@@ -1,0 +1,16 @@
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\bin\Debug\net5.0\AbstractConsoleApp.exe
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\bin\Debug\net5.0\AbstractConsoleApp.deps.json
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\bin\Debug\net5.0\AbstractConsoleApp.runtimeconfig.json
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\bin\Debug\net5.0\AbstractConsoleApp.runtimeconfig.dev.json
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\bin\Debug\net5.0\AbstractConsoleApp.dll
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\bin\Debug\net5.0\AbstractConsoleApp.pdb
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\obj\Debug\net5.0\AbstractConsoleApp.csproj.AssemblyReference.cache
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\obj\Debug\net5.0\AbstractConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\obj\Debug\net5.0\AbstractConsoleApp.AssemblyInfoInputs.cache
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\obj\Debug\net5.0\AbstractConsoleApp.AssemblyInfo.cs
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\obj\Debug\net5.0\AbstractConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\obj\Debug\net5.0\AbstractConsoleApp.dll
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\obj\Debug\net5.0\refint\AbstractConsoleApp.dll
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\obj\Debug\net5.0\AbstractConsoleApp.pdb
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\obj\Debug\net5.0\AbstractConsoleApp.genruntimeconfig.cache
+C:\Users\farid\Desktop\AbstractConsoleApp\AbstractConsoleApp\obj\Debug\net5.0\ref\AbstractConsoleApp.dll
